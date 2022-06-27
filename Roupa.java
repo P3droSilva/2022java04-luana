@@ -1,4 +1,4 @@
-class Roupa{
+public class Roupa{
     protected String cor;
     protected String tecido;
     public Roupa(String cor,String tecido){
