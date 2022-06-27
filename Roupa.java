@@ -1,7 +1,7 @@
 class Roupa{
     protected String cor;
     protected String tecido;
-    public Tecido(String cor,String tecido){
+    public Roupa(String cor,String tecido){
         this.cor=cor;
         this.tecido=tecido;
     }
